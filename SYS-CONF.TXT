@@ -1,0 +1,38 @@
+%
+SYSTEM CONFIGURATION
+
+1.HARDWARE CONFIGURATION
+    NAME           ID-1     ID-2   SLOT 
++-------------+----------+--------+----+
+ MAIN BOARD   
+  MAIN BOARD   00493 B0 1 70000203      
+  FROM/SRAM    F5/04                    
+ DISPLAY      
+  DISP ID      1010                     
+ OTHERS       
+  MDI ID       18                       
+  B.UNIT ID    10                       
+
+2.SOFTWARE CONFIGURATION
+    SYSTEM     SERIES  EDITION
++------------+--------+--------+
+ CNC(SYSTEM1)   D4G3     29.0   
+ CNC(SYSTEM2)   D4G3     29.0   
+ CNC(SYSTEM3)   D4G3     29.0   
+ CNC(SYSTEM4)   D4G3     29.0   
+ CNC(MSG1)      D4G3     29.0   
+ CNC(MSG2)      D4G3     29.0   
+ CNC(MSG3)      D4G3     29.0   
+ CNC(MSG4)      D4G3     29.0   
+ CNC(MSG5)      D4G3     29.0   
+ BOOT           60WF     0005   
+ PMC(SYSTEM)    40B4     08.0   
+ PMC(LADDER1)   2          22     
+ SERVO          90J5     08.0   
+ SERVO          90J7     07.0   
+ SPINDLE-1      9DAA     0023   
+ GRAPHIC        60VT     04.0   
+ EMBED ETHER    658A     20.0   
+ USB SOFT       659C     03.0   
+
+%
